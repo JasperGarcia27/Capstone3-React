@@ -1,0 +1,30 @@
+/*CSS Reset*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+/* #register {
+  height: 100vh;
+	color: white;
+    background: 
+        linear-gradient(
+
+            rgba(114, 118, 143, 0.59),
+            rgba(0, 0, 0, 0.59)
+        ),
+        url("./pictures/bg-register.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+} */
+
+/* #login {
+  height: 100vh;
+  background-color: rgb(107, 164, 248);
+} */
+
+.cardHighlight {
+  min-height: 100%
+}
